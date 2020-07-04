@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This repository is for an IBM Capstone Project
+This repository is created for an IBM Capstone Project
